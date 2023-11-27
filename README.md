@@ -1,2 +1,2 @@
 # obsidian
-the obsidian article 
+The obsidian article 
