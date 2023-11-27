@@ -1,0 +1,2 @@
+# obsidian
+the obsidian article 
